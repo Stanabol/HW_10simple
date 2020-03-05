@@ -1,0 +1,16 @@
+/* styles goes here */
+.container h1 {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    width: 20px;
+}
+
+.subtitle h3 {
+    display: flex;
+    justify-content: center;
+    width: 750px;
+    text-align: center;
+}
