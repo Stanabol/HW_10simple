@@ -1,7 +1,7 @@
 /* styles goes here */
 
- .header h1 {
-    margin-top: 69px;
+ .title {
+    margin-top: 80px;
     margin-bottom: 10px;
     text-align: center;
     font-family: Lato;
@@ -15,7 +15,7 @@
 
 hr {
     margin: 0 auto;
-    margin-bottom: 74px;
+    margin-bottom: 63px;
     width: 45px;
     height: 3px;
     left: 778px;
@@ -23,7 +23,7 @@ hr {
     background: #DDDBDB;
 }
 
-.header h3 {
+.subtitle {
     margin: 0 auto;
     margin-bottom: 75px;
     font-family: Lato;
@@ -37,7 +37,7 @@ hr {
     text-align: center;
 }
 
-.col-3 span {
+.name {
     font-family: Lato;
     font-style: normal;
     font-weight: bold;
@@ -46,7 +46,7 @@ hr {
     color: #282528;
 }
 
-.col-3 p {
+.profession {
     margin-top: 0;
     font-family: Roboto;
     font-style: normal;
@@ -54,6 +54,7 @@ hr {
     font-size: 14px;
     line-height: 16px;
     color: #646464;
+    padding-top: 5px;
 }
 
 .focus {
@@ -69,7 +70,7 @@ hr {
 }   
 
 .img img {
-    margin-bottom: 16px;
+    margin-bottom: 12px;
 }
 
  .focus a {
