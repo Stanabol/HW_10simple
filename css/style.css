@@ -90,3 +90,15 @@ hr {
 .focus:hover {
     opacity: 1;
 }
+
+.twitter:hover {
+    background-color: darkturquoise;
+}
+
+.facebook:hover {
+    background-color: #3b5998;
+}
+
+.google:hover {
+    background-color: darkgrey;
+}
